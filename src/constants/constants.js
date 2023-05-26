@@ -22,7 +22,7 @@ export const projects = [
   {
     title: "Utube",
     description:
-      "Utube ia lightweight version of youtube. Buy using RapisApi youtube 3 apis to get youtube videos, channels atc.",
+      "Utube ia a lightweight version of youtube. Buy using RapisApi youtube 3 apis to get youtube videos, channels atc.",
     image: "/images/utube.png",
     tags: ["React.js", "Material Ui"],
     visit: "https://github.com/usmany26/utube",
