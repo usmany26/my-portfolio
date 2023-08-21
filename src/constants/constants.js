@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: "IGotPlans",
+    description: "A platform to buy yoga, dance etc events tickets",
+    image: "/images/igp.png",
+    tags: ["React.js", "Firebase", "Redux", "Redux Toolkit"],
+    source: "https://web.igotplans.co.uk/",
+    visit: "https://web.igotplans.co.uk/",
+    id: 7,
+  },
+  {
     title: "Ai-Summz",
     description:
       "Using React, RTK, RapidApi , Improve your reading with AiSummz, an open-source article summarizer that change extensive articles into clear and compact outlines.",
@@ -7,7 +16,7 @@ export const projects = [
     tags: ["React", "TRK", "Tailwind", "RapiApi"],
     visit: "https://github.com/usmany26/ai-summz",
     source: "https://ai-ar-summarizer.netlify.app/",
-    id: 0,
+    id: 1,
   },
   {
     title: "Justtap",
@@ -37,7 +46,7 @@ export const projects = [
     tags: ["Html", "CSS"],
     visit: "https://github.com/usmany26/sushi",
     source: "https://sushi-kbyppqslo-usmany26.vercel.app/#food",
-    id: 1,
+    id: 4,
   },
   {
     title: "Metanation",
@@ -47,16 +56,18 @@ export const projects = [
     tags: ["Next.js", "Node.js", "Express.js", "MongoDB"],
     source: "https://igotplans.vercel.app/home",
     visit: "https://igotplans.vercel.app/home",
-    id: 3,
+    id: 6,
   },
+
   {
-    title: "IGotPlans",
-    description: "A platform to buy yoga, dance etc events tickets",
+    title: "Dice Game",
+    description:
+      "On a turn, a player rolls the die repeatedly. The goal is to accumulate as many points as possible, adding up the numbers rolled on the die. However, if a player rolls a 1, the player's turn is over and any points they have accumulated during this turn are forfeited.",
     image: "/images/igp.png",
-    tags: ["React.js", "Firebase", "Redux", "Redux Toolkit"],
-    source: "https://metanation.uk/",
-    visit: "https://metanation.uk/",
-    id: 1,
+    tags: ["Javascript", "CSS"],
+    source: "https://github.com/usmany26/dice-game",
+    visit: "https://dice-game-six-gold.vercel.app/",
+    id: 8,
   },
 ];
 
