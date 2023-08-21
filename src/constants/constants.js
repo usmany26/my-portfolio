@@ -63,10 +63,10 @@ export const projects = [
     title: "Dice Game",
     description:
       "On a turn, a player rolls the die repeatedly. The goal is to accumulate as many points as possible, adding up the numbers rolled on the die. However, if a player rolls a 1, the player's turn is over and any points they have accumulated during this turn are forfeited.",
-    image: "/images/igp.png",
+    image: "/images/pig-game.png",
     tags: ["Javascript", "CSS"],
-    source: "https://github.com/usmany26/dice-game",
-    visit: "https://dice-game-six-gold.vercel.app/",
+    visit: "https://github.com/usmany26/dice-game",
+    source: "https://dice-game-six-gold.vercel.app/",
     id: 8,
   },
 ];
